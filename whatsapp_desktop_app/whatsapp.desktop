@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=WhatsApp
+Exec=/opt/whatsapp/whatsapp
+Icon=/opt/whatsapp/resources/app/icon.png
+Terminal=false
+Type=Application
+Categories=Network;Chat;

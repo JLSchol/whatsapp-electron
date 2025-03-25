@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLSchol/whatsapp-electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLSchol/whatsapp-electron/issues"
+  },
+  "homepage": "https://github.com/JLSchol/whatsapp-electron#readme",
+  "devDependencies": {
+    "electron": "^35.0.3"
+  }
+}

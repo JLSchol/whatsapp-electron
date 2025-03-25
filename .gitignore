@@ -1,0 +1,12 @@
+# Ignore dependencies
+node_modules/
+package-lock.json
+
+# Ignore build files
+whatsapp-linux-x64/
+dist/
+out/
+
+# Ignore OS/system files
+.DS_Store
+*.log
